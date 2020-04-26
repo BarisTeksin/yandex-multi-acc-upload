@@ -1,0 +1,3 @@
+yandex_account_1@yandex.com:your_account_password_1
+yandex_account_2@yandex.com:your_account_password_2
+yandex_account_3@yandex.com:your_account_password_3
