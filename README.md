@@ -1,4 +1,4 @@
-# Yandex multi Account Upload
+# Yandex Multi Account Upload
 
 ## Installation
 
