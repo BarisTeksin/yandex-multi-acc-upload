@@ -14,8 +14,8 @@ cd yandex-multi-acc-upload
 ```
 pip install -r requirements.txt
 ```
-
-3. run.py
+3. edit acc.txt
+4. run.py
 
 ```
 python run.py
